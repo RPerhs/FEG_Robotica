@@ -51,6 +51,7 @@ public class Otimizador//nome da Classe Executável
 		Line l6 = new Line(20,20,20,40);
 		Line l7 = new Line(30,30,30,40);
 		Line l8 = new Line(40,40,40,40);
+		// COMENTÁRIO INÚTIL
 		l[0] = l1;
 		l[1] = l2;
 		l[2] = l3;
